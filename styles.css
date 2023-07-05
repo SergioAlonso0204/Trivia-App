@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #trivia-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  #settings,
+  #trivia-questions,
+  #score {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #score {
+    text-align: center;
+  }
+  
+  #score h2 {
+    margin-bottom: 10px;
+  }
+  
+  #new-trivia-btn {
+    margin-top: 10px;
+  }
+  
+  #finish-trivia-btn {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
